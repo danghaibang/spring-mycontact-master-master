@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.webjars:jquery:1.12.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/jquery/1.12.4/jquery-1.12.4.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/jquery/1.12.4/jquery-1.12.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
